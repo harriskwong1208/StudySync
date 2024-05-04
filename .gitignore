@@ -1,6 +1,7 @@
 # Generated files
 .docusaurus
 
+
 src/keys.js
 src/gptKey.js
 /functions
