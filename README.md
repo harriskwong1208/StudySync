@@ -14,7 +14,7 @@ The evolution of StudySync addresses the growing need for educational tools that
 
 ## Keywords
 
-Quizlet, HTML, CSS, JS, ReactJS, Firebase, NodeJs
+Quizlet, HTML, CSS, JS, ReactJS, NodeJs, Firebase
 
 ## Project Abstract
 
