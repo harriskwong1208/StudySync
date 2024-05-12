@@ -12,6 +12,15 @@ StudySync is an innovative online learning platform designed to offer an interac
 
 The evolution of StudySync addresses the growing need for educational tools that are both informative and user-friendly. By automating the creation of study materials, the platform caters to a wide spectrum of learning preferences and needs, adapting to various learning styles and paces. The social and collaborative aspects of the platform, such as adding friends and participating in shared quizzes, foster a community of learners who support and challenge each other.
 
+
+## How to Run
+1. Clone the repository
+2. Open a code editor (ex: vs code), navigate to root directory of project, enter "npm install" to install all dependencies in the terminal.
+3. Enter "npm run start" to run the web application
+
+## Note*
+- The AI component in this application has been deactivated due to budget constraints.
+
 ## Keywords
 
 Quizlet, HTML, CSS, JS, ReactJS, NodeJs, Firebase
